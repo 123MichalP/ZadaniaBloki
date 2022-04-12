@@ -1,0 +1,48 @@
+body
+{
+	text-align: center;
+	background-color: #FFC820;
+	margin: 0;
+}
+
+h1
+{
+	background-color: #ba8e30;
+	margin: 0 0 auto 0;
+	padding: 10px 0;
+	text-shadow: 2px 2px 4px darkgrey;
+}
+
+#header
+{
+	margin: 0 0 0 0;
+	width: 100%;
+}
+
+.box
+{
+	float: left;
+	margin: 55px 0 55px 6%;
+	width: 20%;
+	padding: 0 2.5%;
+	border: 2px black solid;
+}
+
+h4
+{
+	clear: both;
+	color: white;
+	background-color: black;
+	margin-bottom: 0;
+	padding: 1%;
+}
+
+img
+{
+	width: 90%;
+}
+
+#footer
+{
+	margin: 0;
+}
